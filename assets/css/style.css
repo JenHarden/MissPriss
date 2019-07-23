@@ -1,0 +1,25 @@
+body {
+    background-image: url(../images/lionking1opa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header {
+    padding: 60px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+  }
+
+  #song {
+    font-weight: bolder;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.25rem;
+    height: 315px;
+    overflow: auto;
+    display: inline-block;
+  }
+
+  iframe {
+      padding-right: 30px;
+  }
